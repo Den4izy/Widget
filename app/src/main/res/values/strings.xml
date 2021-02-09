@@ -1,0 +1,4 @@
+<resources>
+    <string name="MyWidget">Widget</string>
+    <string name="TextInWidget">Text</string>
+</resources>
